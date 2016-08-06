@@ -1,0 +1,3260 @@
+<application>
+  <component name="libraryTable">
+    <library name="actionmailer (v4.2.5.1, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/actionmailer-4.2.5.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/actionmailer-4.2.5.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionpack (v4.2.5.1, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/actionpack-4.2.5.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/actionpack-4.2.5.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionview (v4.2.5.1, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/actionview-4.2.5.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/actionview-4.2.5.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="active_skin (v0.0.12, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/active_skin-0.0.12/app" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/active_skin-0.0.12/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/active_skin-0.0.12/app" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/active_skin-0.0.12/lib" />
+      </SOURCES>
+    </library>
+    <library name="activeadmin (v1.0.0.pre4, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/activeadmin-1.0.0.pre4/app" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/activeadmin-1.0.0.pre4/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/activeadmin-1.0.0.pre4/tasks" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/activeadmin-1.0.0.pre4/config" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/activeadmin-1.0.0.pre4/script" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/activeadmin-1.0.0.pre4/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/activeadmin-1.0.0.pre4/app" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/activeadmin-1.0.0.pre4/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/activeadmin-1.0.0.pre4/tasks" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/activeadmin-1.0.0.pre4/config" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/activeadmin-1.0.0.pre4/script" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/activeadmin-1.0.0.pre4/features" />
+      </SOURCES>
+    </library>
+    <library name="activeadmin-poro-decorator (v0.0.3@b11c6d, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/bundler/gems/activeadmin-poro-decorator-b11c6de3595e/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/bundler/gems/activeadmin-poro-decorator-b11c6de3595e/lib" />
+      </SOURCES>
+    </library>
+    <library name="activejob (v4.2.5.1, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/activejob-4.2.5.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/activejob-4.2.5.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="activemodel (v4.2.5.1, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/activemodel-4.2.5.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/activemodel-4.2.5.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="activerecord (v4.2.5.1, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/activerecord-4.2.5.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/activerecord-4.2.5.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="activesupport (v4.2.5.1, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/activesupport-4.2.5.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/activesupport-4.2.5.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="addressable (v2.4.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/addressable-2.4.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/addressable-2.4.0/data" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/addressable-2.4.0/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/addressable-2.4.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/addressable-2.4.0/data" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/addressable-2.4.0/tasks" />
+      </SOURCES>
+    </library>
+    <library name="annotate (v2.7.1, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/annotate-2.7.1/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/annotate-2.7.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/annotate-2.7.1/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/annotate-2.7.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="arbre (v1.1.1, Remote:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/arbre-1.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/arbre-1.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="arbre (v1.1.1, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/arbre-1.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/arbre-1.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="arel (v6.0.3, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/arel-6.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/arel-6.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="ast (v2.3.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/ast-2.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/ast-2.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="authy (v2.7.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/authy-2.7.0/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/authy-2.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/authy-2.7.0/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/authy-2.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="bcrypt (v3.1.11, Remote:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.11" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/bcrypt-3.1.11/ext" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/bcrypt-3.1.11/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.11" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/bcrypt-3.1.11/ext" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/bcrypt-3.1.11/lib" />
+      </SOURCES>
+    </library>
+    <library name="bcrypt (v3.1.11, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.11" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/bcrypt-3.1.11/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/bcrypt-3.1.11/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.11" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/bcrypt-3.1.11/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/bcrypt-3.1.11/lib" />
+      </SOURCES>
+    </library>
+    <library name="better_errors (v2.1.1, Remote:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/better_errors-2.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/better_errors-2.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="better_errors (v2.1.1, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/better_errors-2.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/better_errors-2.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="binding_of_caller (v0.7.2, Remote:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/binding_of_caller/0.7.2" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/binding_of_caller-0.7.2/ext" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/binding_of_caller-0.7.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/binding_of_caller/0.7.2" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/binding_of_caller-0.7.2/ext" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/binding_of_caller-0.7.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="binding_of_caller (v0.7.2, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/binding_of_caller/0.7.2" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/binding_of_caller-0.7.2/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/binding_of_caller-0.7.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/binding_of_caller/0.7.2" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/binding_of_caller-0.7.2/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/binding_of_caller-0.7.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="blankslate (v3.1.3, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/blankslate-3.1.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/blankslate-3.1.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="bootstrap-datepicker-rails (v1.6.1.1, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/bootstrap-datepicker-rails-1.6.1.1/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/bootstrap-datepicker-rails-1.6.1.1/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/bootstrap-datepicker-rails-1.6.1.1/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/bootstrap-datepicker-rails-1.6.1.1/vendor" />
+      </SOURCES>
+    </library>
+    <library name="bourbon (v3.2.4, Remote:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/bourbon-3.2.4/app" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/bourbon-3.2.4/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/bourbon-3.2.4/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/bourbon-3.2.4/dist" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/bourbon-3.2.4/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/bourbon-3.2.4/app" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/bourbon-3.2.4/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/bourbon-3.2.4/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/bourbon-3.2.4/dist" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/bourbon-3.2.4/features" />
+      </SOURCES>
+    </library>
+    <library name="bourbon (v3.2.4, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/bourbon-3.2.4/app" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/bourbon-3.2.4/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/bourbon-3.2.4/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/bourbon-3.2.4/dist" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/bourbon-3.2.4/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/bourbon-3.2.4/app" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/bourbon-3.2.4/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/bourbon-3.2.4/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/bourbon-3.2.4/dist" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/bourbon-3.2.4/features" />
+      </SOURCES>
+    </library>
+    <library name="browser (v2.2.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/browser-2.2.0/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/browser-2.2.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/browser-2.2.0/.bundle" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/browser-2.2.0/.github" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/browser-2.2.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/browser-2.2.0/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/browser-2.2.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/browser-2.2.0/.bundle" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/browser-2.2.0/.github" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/browser-2.2.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="builder (v3.2.2, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/builder-3.2.2/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/builder-3.2.2/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/builder-3.2.2/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/builder-3.2.2/rakelib" />
+      </SOURCES>
+    </library>
+    <library name="bundler (v1.1.5, RVM: ruby-1.9.3-p194 [global]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-1.9.3-p194@global/gems/bundler-1.1.5/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-1.9.3-p194@global/gems/bundler-1.1.5/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-1.9.3-p194@global/gems/bundler-1.1.5/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-1.9.3-p194@global/gems/bundler-1.1.5/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-1.9.3-p194@global/gems/bundler-1.1.5/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-1.9.3-p194@global/gems/bundler-1.1.5/man" />
+      </SOURCES>
+    </library>
+    <library name="bundler (v1.12.5, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/bundler-1.12.5/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/bundler-1.12.5/exe" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/bundler-1.12.5/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/bundler-1.12.5/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/bundler-1.12.5/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/bundler-1.12.5/exe" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/bundler-1.12.5/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/bundler-1.12.5/man" />
+      </SOURCES>
+    </library>
+    <library name="bundler-unload (v1.0.2, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/bundler-unload-1.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/bundler-unload-1.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="bundler-unload (v1.0.2, RVM: ruby-2.3.1 [global]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/bundler-unload-1.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/bundler-unload-1.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="bundler-unload (v1.0.2, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/bundler-unload-1.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/bundler-unload-1.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="business_time (v0.7.4, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/business_time-0.7.4/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/business_time-0.7.4/rails_generators" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/business_time-0.7.4/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/business_time-0.7.4/rails_generators" />
+      </SOURCES>
+    </library>
+    <library name="cancancan (v1.15.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/cancancan-1.15.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/cancancan-1.15.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/cancancan-1.15.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/cancancan-1.15.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="capybara (v2.6.2, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/capybara-2.6.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/capybara-2.6.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="carrierwave (v0.11.2, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/carrierwave-0.11.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/carrierwave-0.11.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="CFPropertyList (v2.2.8, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/CFPropertyList-2.2.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/CFPropertyList-2.2.8/lib" />
+      </SOURCES>
+    </library>
+    <library name="chartkick (v2.0.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/chartkick-2.0.0/app" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/chartkick-2.0.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/chartkick-2.0.0/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/chartkick-2.0.0/app" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/chartkick-2.0.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/chartkick-2.0.0/vendor" />
+      </SOURCES>
+    </library>
+    <library name="choice (v0.2.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/choice-0.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/choice-0.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="ci_reporter (v2.0.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/ci_reporter-2.0.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/ci_reporter-2.0.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/ci_reporter-2.0.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/ci_reporter-2.0.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="ci_reporter_rspec (v1.0.0, Remote:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/ci_reporter_rspec-1.0.0/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/ci_reporter_rspec-1.0.0/gemfiles" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/ci_reporter_rspec-1.0.0/acceptance" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/ci_reporter_rspec-1.0.0/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/ci_reporter_rspec-1.0.0/gemfiles" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/ci_reporter_rspec-1.0.0/acceptance" />
+      </SOURCES>
+    </library>
+    <library name="ci_reporter_rspec (v1.0.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/ci_reporter_rspec-1.0.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/ci_reporter_rspec-1.0.0/gemfiles" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/ci_reporter_rspec-1.0.0/acceptance" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/ci_reporter_rspec-1.0.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/ci_reporter_rspec-1.0.0/gemfiles" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/ci_reporter_rspec-1.0.0/acceptance" />
+      </SOURCES>
+    </library>
+    <library name="codeclimate-test-reporter (v0.6.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/codeclimate-test-reporter-0.6.0/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/codeclimate-test-reporter-0.6.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/codeclimate-test-reporter-0.6.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/codeclimate-test-reporter-0.6.0/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/codeclimate-test-reporter-0.6.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/codeclimate-test-reporter-0.6.0/config" />
+      </SOURCES>
+    </library>
+    <library name="coderay (v1.1.1, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/coderay-1.1.1/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/coderay-1.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/coderay-1.1.1/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/coderay-1.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="coercible (v1.0.0, Remote:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/coercible-1.0.0/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/coercible-1.0.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/coercible-1.0.0/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/coercible-1.0.0/config" />
+      </SOURCES>
+    </library>
+    <library name="coercible (v1.0.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/coercible-1.0.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/coercible-1.0.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/coercible-1.0.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/coercible-1.0.0/config" />
+      </SOURCES>
+    </library>
+    <library name="coffee-rails (v4.0.1, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/coffee-rails-4.0.1/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/coffee-rails-4.0.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/coffee-rails-4.0.1/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/coffee-rails-4.0.1/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="coffee-script (v2.4.1, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/coffee-script-2.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/coffee-script-2.4.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="coffee-script-source (v1.10.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/coffee-script-source-1.10.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/coffee-script-source-1.10.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="commonjs (v0.2.7, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/commonjs-0.2.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/commonjs-0.2.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="crack (v0.4.3, Remote:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/crack-0.4.3/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/crack-0.4.3/script" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/crack-0.4.3/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/crack-0.4.3/script" />
+      </SOURCES>
+    </library>
+    <library name="crack (v0.4.3, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/crack-0.4.3/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/crack-0.4.3/script" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/crack-0.4.3/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/crack-0.4.3/script" />
+      </SOURCES>
+    </library>
+    <library name="css_parser (v1.4.5, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/css_parser-1.4.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/css_parser-1.4.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="daemons (v1.2.3, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/daemons-1.2.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/daemons-1.2.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="dante (v0.2.0, Remote:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/dante-0.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/dante-0.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="dante (v0.2.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/dante-0.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/dante-0.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="database_cleaner (v1.5.3, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/database_cleaner-1.5.3/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/database_cleaner-1.5.3/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/database_cleaner-1.5.3/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/database_cleaner-1.5.3/features" />
+      </SOURCES>
+    </library>
+    <library name="debase (v0.2.1, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/debase-0.2.1/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/debase-0.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/debase-0.2.1/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/debase-0.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="debase (v0.2.2.beta8, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/debase-0.2.2.beta8/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/debase-0.2.2.beta8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/debase-0.2.2.beta8/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/debase-0.2.2.beta8/lib" />
+      </SOURCES>
+    </library>
+    <library name="debase-ruby_core_source (v0.9.1, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/debase-ruby_core_source-0.9.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/debase-ruby_core_source-0.9.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="debug_inspector (v0.0.2, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/debug_inspector/0.0.2" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/debug_inspector-0.0.2/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/debug_inspector-0.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/debug_inspector/0.0.2" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/debug_inspector-0.0.2/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/debug_inspector-0.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="delayed_job (v4.1.2, Remote:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/delayed_job-4.1.2/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/delayed_job-4.1.2/contrib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/delayed_job-4.1.2/recipes" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/delayed_job-4.1.2/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/delayed_job-4.1.2/contrib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/delayed_job-4.1.2/recipes" />
+      </SOURCES>
+    </library>
+    <library name="delayed_job (v4.1.2, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/delayed_job-4.1.2/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/delayed_job-4.1.2/contrib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/delayed_job-4.1.2/recipes" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/delayed_job-4.1.2/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/delayed_job-4.1.2/contrib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/delayed_job-4.1.2/recipes" />
+      </SOURCES>
+    </library>
+    <library name="delayed_job_active_record (v4.1.1, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/delayed_job_active_record-4.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/delayed_job_active_record-4.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="delayed_job_web (v1.2.10, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/delayed_job_web-1.2.10/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/delayed_job_web-1.2.10/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/delayed_job_web-1.2.10/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/delayed_job_web-1.2.10/lib" />
+      </SOURCES>
+    </library>
+    <library name="descendants_tracker (v0.0.4, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/descendants_tracker-0.0.4/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/descendants_tracker-0.0.4/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/descendants_tracker-0.0.4/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/descendants_tracker-0.0.4/config" />
+      </SOURCES>
+    </library>
+    <library name="devise (v3.5.10, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/devise-3.5.10/app" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/devise-3.5.10/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/devise-3.5.10/config" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/devise-3.5.10/script" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/devise-3.5.10/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/devise-3.5.10/app" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/devise-3.5.10/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/devise-3.5.10/config" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/devise-3.5.10/script" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/devise-3.5.10/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="devise-authy (v1.7.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/devise-authy-1.7.0/app" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/devise-authy-1.7.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/devise-authy-1.7.0/config" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/devise-authy-1.7.0/authy-devise-demo" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/devise-authy-1.7.0/app" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/devise-authy-1.7.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/devise-authy-1.7.0/config" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/devise-authy-1.7.0/authy-devise-demo" />
+      </SOURCES>
+    </library>
+    <library name="devise_invitable (v1.5.5, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/devise_invitable-1.5.5/app" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/devise_invitable-1.5.5/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/devise_invitable-1.5.5/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/devise_invitable-1.5.5/app" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/devise_invitable-1.5.5/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/devise_invitable-1.5.5/config" />
+      </SOURCES>
+    </library>
+    <library name="did_you_mean (v1.0.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/did_you_mean-1.0.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/did_you_mean-1.0.0/benchmark" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/did_you_mean-1.0.0/evaluation" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/did_you_mean-1.0.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/did_you_mean-1.0.0/benchmark" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/did_you_mean-1.0.0/evaluation" />
+      </SOURCES>
+    </library>
+    <library name="did_you_mean (v1.0.0, RVM: ruby-2.3.1 [global]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/did_you_mean-1.0.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/did_you_mean-1.0.0/benchmark" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/did_you_mean-1.0.0/evaluation" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/did_you_mean-1.0.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/did_you_mean-1.0.0/benchmark" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/did_you_mean-1.0.0/evaluation" />
+      </SOURCES>
+    </library>
+    <library name="did_you_mean (v1.0.0, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/did_you_mean-1.0.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/did_you_mean-1.0.0/benchmark" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/did_you_mean-1.0.0/evaluation" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/did_you_mean-1.0.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/did_you_mean-1.0.0/benchmark" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/did_you_mean-1.0.0/evaluation" />
+      </SOURCES>
+    </library>
+    <library name="diff-lcs (v1.2.5, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/diff-lcs-1.2.5/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/diff-lcs-1.2.5/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/diff-lcs-1.2.5/autotest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/diff-lcs-1.2.5/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/diff-lcs-1.2.5/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/diff-lcs-1.2.5/autotest" />
+      </SOURCES>
+    </library>
+    <library name="docile (v1.1.5, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/docile-1.1.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/docile-1.1.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="domain_name (v0.5.20160615, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/domain_name-0.5.20160615/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/domain_name-0.5.20160615/data" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/domain_name-0.5.20160615/tool" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/domain_name-0.5.20160615/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/domain_name-0.5.20160615/data" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/domain_name-0.5.20160615/tool" />
+      </SOURCES>
+    </library>
+    <library name="easy_translate (v0.5.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/easy_translate-0.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/easy_translate-0.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="enumerize (v1.1.1, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/enumerize-1.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/enumerize-1.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="erubis (v2.7.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/erubis-2.7.0/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/erubis-2.7.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/erubis-2.7.0/contrib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/erubis-2.7.0/doc-api" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/erubis-2.7.0/benchmark" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/erubis-2.7.0/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/erubis-2.7.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/erubis-2.7.0/contrib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/erubis-2.7.0/doc-api" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/erubis-2.7.0/benchmark" />
+      </SOURCES>
+    </library>
+    <library name="execjs (v2.7.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/execjs-2.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/execjs-2.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="executable-hooks (v1.3.2, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/executable-hooks-1.3.2/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/executable-hooks-1.3.2/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/executable-hooks-1.3.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/executable-hooks-1.3.2/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/executable-hooks-1.3.2/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/executable-hooks-1.3.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="executable-hooks (v1.3.2, RVM: ruby-2.3.1 [global]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/executable-hooks-1.3.2/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/executable-hooks-1.3.2/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/executable-hooks-1.3.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/executable-hooks-1.3.2/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/executable-hooks-1.3.2/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/executable-hooks-1.3.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="executable-hooks (v1.3.2, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/executable-hooks-1.3.2/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/executable-hooks-1.3.2/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/executable-hooks-1.3.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/executable-hooks-1.3.2/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/executable-hooks-1.3.2/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/executable-hooks-1.3.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="facter (v2.4.6, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/facter-2.4.6-universal-darwin/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/facter-2.4.6-universal-darwin/etc" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/facter-2.4.6-universal-darwin/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/facter-2.4.6-universal-darwin/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/facter-2.4.6-universal-darwin/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/facter-2.4.6-universal-darwin/etc" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/facter-2.4.6-universal-darwin/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/facter-2.4.6-universal-darwin/lib" />
+      </SOURCES>
+    </library>
+    <library name="factory_girl (v4.7.0, Remote:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/factory_girl-4.7.0/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/factory_girl-4.7.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/factory_girl-4.7.0/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/factory_girl-4.7.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="factory_girl (v4.7.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/factory_girl-4.7.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/factory_girl-4.7.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/factory_girl-4.7.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/factory_girl-4.7.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="factory_girl_rails (v4.7.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/factory_girl_rails-4.7.0/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/factory_girl_rails-4.7.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/factory_girl_rails-4.7.0/features" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/factory_girl_rails-4.7.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/factory_girl_rails-4.7.0/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/factory_girl_rails-4.7.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/factory_girl_rails-4.7.0/features" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/factory_girl_rails-4.7.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="faraday (v0.9.2, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/faraday-0.9.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/faraday-0.9.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="ffi (v1.9.14, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.9.14" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/ffi-1.9.14/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/ffi-1.9.14/gen" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/ffi-1.9.14/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/ffi-1.9.14/libtest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.9.14" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/ffi-1.9.14/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/ffi-1.9.14/gen" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/ffi-1.9.14/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/ffi-1.9.14/libtest" />
+      </SOURCES>
+    </library>
+    <library name="flamegraph (v0.9.5, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/flamegraph-0.9.5/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/flamegraph-0.9.5/demo" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/flamegraph-0.9.5/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/flamegraph-0.9.5/demo" />
+      </SOURCES>
+    </library>
+    <library name="formatador (v0.2.5, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/formatador-0.2.5/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/formatador-0.2.5/tests" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/formatador-0.2.5/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/formatador-0.2.5/tests" />
+      </SOURCES>
+    </library>
+    <library name="formtastic (v3.1.4, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/formtastic-3.1.4/app" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/formtastic-3.1.4/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/formtastic-3.1.4/sample" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/formtastic-3.1.4/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/formtastic-3.1.4/app" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/formtastic-3.1.4/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/formtastic-3.1.4/sample" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/formtastic-3.1.4/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="formtastic_i18n (v0.6.0, Remote:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/formtastic_i18n-0.6.0/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/formtastic_i18n-0.6.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/formtastic_i18n-0.6.0/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/formtastic_i18n-0.6.0/config" />
+      </SOURCES>
+    </library>
+    <library name="formtastic_i18n (v0.6.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/formtastic_i18n-0.6.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/formtastic_i18n-0.6.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/formtastic_i18n-0.6.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/formtastic_i18n-0.6.0/config" />
+      </SOURCES>
+    </library>
+    <library name="gem-wrappers (v1.2.7, RVM: ruby-1.9.3-p194 [global]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-1.9.3-p194@global/gems/gem-wrappers-1.2.7/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-1.9.3-p194@global/gems/gem-wrappers-1.2.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-1.9.3-p194@global/gems/gem-wrappers-1.2.7/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-1.9.3-p194@global/gems/gem-wrappers-1.2.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="gem-wrappers (v1.2.7, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/gem-wrappers-1.2.7/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/gem-wrappers-1.2.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/gem-wrappers-1.2.7/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/gem-wrappers-1.2.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="gem-wrappers (v1.2.7, RVM: ruby-2.3.1 [global]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/gem-wrappers-1.2.7/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/gem-wrappers-1.2.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/gem-wrappers-1.2.7/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/gem-wrappers-1.2.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="gem-wrappers (v1.2.7, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/gem-wrappers-1.2.7/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/gem-wrappers-1.2.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/gem-wrappers-1.2.7/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/gem-wrappers-1.2.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="geocoder (v1.3.7, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/geocoder-1.3.7/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/geocoder-1.3.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/geocoder-1.3.7/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/geocoder-1.3.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="git-version-bump (v0.15.1, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/git-version-bump-0.15.1/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/git-version-bump-0.15.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/git-version-bump-0.15.1/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/git-version-bump-0.15.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="globalid (v0.3.7, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/globalid-0.3.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/globalid-0.3.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="going_postal (v0.1.6, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/going_postal-0.1.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/going_postal-0.1.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="groupdate (v3.0.1, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/groupdate-3.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/groupdate-3.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="guard (v2.14.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/guard-2.14.0/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/guard-2.14.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/guard-2.14.0/man" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/guard-2.14.0/images" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/guard-2.14.0/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/guard-2.14.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/guard-2.14.0/man" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/guard-2.14.0/images" />
+      </SOURCES>
+    </library>
+    <library name="guard-rspec (v4.3.1@300936, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/bundler/gems/guard-rspec-300936de8378/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/bundler/gems/guard-rspec-300936de8378/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/bundler/gems/guard-rspec-300936de8378/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/bundler/gems/guard-rspec-300936de8378/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="has_scope (v0.6.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/has_scope-0.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/has_scope-0.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="hashdiff (v0.3.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/hashdiff-0.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/hashdiff-0.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="hashie (v3.4.4, Remote:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/hashie-3.4.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/hashie-3.4.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="hashie (v3.4.4, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/hashie-3.4.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/hashie-3.4.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="hashie-forbidden_attributes (v0.1.1, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/hashie-forbidden_attributes-0.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/hashie-forbidden_attributes-0.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="hiera (v3.2.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/hiera-3.2.0/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/hiera-3.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/hiera-3.2.0/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/hiera-3.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="highline (v1.7.8, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/highline-1.7.8/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/highline-1.7.8/site" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/highline-1.7.8/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/highline-1.7.8/site" />
+      </SOURCES>
+    </library>
+    <library name="hike (v1.2.3, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/hike-1.2.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/hike-1.2.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="holidays (v4.6.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/holidays-4.6.0/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/holidays-4.6.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/holidays-4.6.0/definitions" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/holidays-4.6.0/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/holidays-4.6.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/holidays-4.6.0/definitions" />
+      </SOURCES>
+    </library>
+    <library name="htmlbeautifier (v1.1.1, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/htmlbeautifier-1.1.1/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/htmlbeautifier-1.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/htmlbeautifier-1.1.1/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/htmlbeautifier-1.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="htmlentities (v4.3.4, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/htmlentities-4.3.4/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/htmlentities-4.3.4/perf" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/htmlentities-4.3.4/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/htmlentities-4.3.4/perf" />
+      </SOURCES>
+    </library>
+    <library name="http-cookie (v1.0.2, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/http-cookie-1.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/http-cookie-1.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="httpclient (v2.8.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/httpclient-2.8.0/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/httpclient-2.8.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/httpclient-2.8.0/sample" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/httpclient-2.8.0/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/httpclient-2.8.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/httpclient-2.8.0/sample" />
+      </SOURCES>
+    </library>
+    <library name="i18n (v0.7.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/i18n-0.7.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/i18n-0.7.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/i18n-0.7.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/i18n-0.7.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="i18n-tasks (v0.8.7, Remote:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/i18n-tasks-0.8.7/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/i18n-tasks-0.8.7/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/i18n-tasks-0.8.7/config" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/i18n-tasks-0.8.7/templates" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/i18n-tasks-0.8.7/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/i18n-tasks-0.8.7/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/i18n-tasks-0.8.7/config" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/i18n-tasks-0.8.7/templates" />
+      </SOURCES>
+    </library>
+    <library name="i18n-tasks (v0.8.7, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/i18n-tasks-0.8.7/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/i18n-tasks-0.8.7/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/i18n-tasks-0.8.7/config" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/i18n-tasks-0.8.7/templates" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/i18n-tasks-0.8.7/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/i18n-tasks-0.8.7/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/i18n-tasks-0.8.7/config" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/i18n-tasks-0.8.7/templates" />
+      </SOURCES>
+    </library>
+    <library name="inflection (v1.0.0, Remote:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/inflection-1.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/inflection-1.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="inflection (v1.0.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/inflection-1.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/inflection-1.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="inherited_resources (v1.6.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/inherited_resources-1.6.0/app" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/inherited_resources-1.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/inherited_resources-1.6.0/app" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/inherited_resources-1.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="io-console (v0.4.5, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/io" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/tk" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/cgi" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/drb" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/irb" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/net" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/rss" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/uri" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/json" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/racc" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/rdoc" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/yaml" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/psych" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/rexml" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/rinda" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/shell" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/digest" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/fiddle" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/matrix" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/ripper" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/syslog" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/xmlrpc" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/openssl" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/optparse" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/rbconfig" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/rubygems" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/tkextlib" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/bigdecimal" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/x86_64-darwin14" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/unicode_normalize" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/io" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/tk" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/cgi" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/drb" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/irb" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/net" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/rss" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/uri" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/json" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/racc" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/rdoc" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/yaml" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/psych" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/rexml" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/rinda" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/shell" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/digest" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/fiddle" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/matrix" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/ripper" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/syslog" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/xmlrpc" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/openssl" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/optparse" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/rbconfig" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/rubygems" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/tkextlib" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/bigdecimal" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/x86_64-darwin14" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/unicode_normalize" />
+      </SOURCES>
+    </library>
+    <library name="io-console (v0.4.5, RVM: ruby-2.3.1 [global]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/io" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/tk" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/cgi" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/drb" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/irb" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/net" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/rss" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/uri" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/json" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/racc" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/rdoc" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/yaml" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/psych" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/rexml" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/rinda" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/shell" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/digest" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/fiddle" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/matrix" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/ripper" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/syslog" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/xmlrpc" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/openssl" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/optparse" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/rbconfig" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/rubygems" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/tkextlib" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/bigdecimal" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/x86_64-darwin14" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/unicode_normalize" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/io" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/tk" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/cgi" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/drb" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/irb" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/net" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/rss" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/uri" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/json" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/racc" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/rdoc" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/yaml" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/psych" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/rexml" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/rinda" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/shell" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/digest" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/fiddle" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/matrix" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/ripper" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/syslog" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/xmlrpc" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/openssl" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/optparse" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/rbconfig" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/rubygems" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/tkextlib" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/bigdecimal" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/x86_64-darwin14" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/unicode_normalize" />
+      </SOURCES>
+    </library>
+    <library name="io-console (v0.4.5, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/io" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/tk" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/cgi" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/drb" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/irb" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/net" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/rss" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/uri" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/json" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/racc" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/rdoc" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/yaml" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/psych" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/rexml" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/rinda" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/shell" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/digest" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/fiddle" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/matrix" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/ripper" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/syslog" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/xmlrpc" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/openssl" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/optparse" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/rbconfig" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/rubygems" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/tkextlib" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/bigdecimal" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/x86_64-darwin14" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/unicode_normalize" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/io" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/tk" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/cgi" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/drb" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/irb" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/net" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/rss" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/uri" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/json" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/racc" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/rdoc" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/yaml" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/psych" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/rexml" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/rinda" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/shell" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/digest" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/fiddle" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/matrix" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/ripper" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/syslog" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/xmlrpc" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/openssl" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/optparse" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/rbconfig" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/rubygems" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/tkextlib" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/bigdecimal" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/x86_64-darwin14" />
+        <root url="file:///usr/local/rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/unicode_normalize" />
+      </SOURCES>
+    </library>
+    <library name="jbuilder (v2.6.0, Remote:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/jbuilder-2.6.0/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/jbuilder-2.6.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/jbuilder-2.6.0/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/jbuilder-2.6.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="jbuilder (v2.6.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/jbuilder-2.6.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/jbuilder-2.6.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/jbuilder-2.6.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/jbuilder-2.6.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="jimson-temp (v0.9.5, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/jimson-temp-0.9.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/jimson-temp-0.9.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="jquery-rails (v4.1.1, Remote:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/jquery-rails-4.1.1/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/jquery-rails-4.1.1/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/jquery-rails-4.1.1/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/jquery-rails-4.1.1/vendor" />
+      </SOURCES>
+    </library>
+    <library name="jquery-rails (v4.1.1, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/jquery-rails-4.1.1/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/jquery-rails-4.1.1/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/jquery-rails-4.1.1/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/jquery-rails-4.1.1/vendor" />
+      </SOURCES>
+    </library>
+    <library name="jquery-ui-rails (v5.0.5, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/jquery-ui-rails-5.0.5/app" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/jquery-ui-rails-5.0.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/jquery-ui-rails-5.0.5/app" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/jquery-ui-rails-5.0.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="json (v2.0.2, Remote:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/json_pure-2.0.2/ext" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/json_pure-2.0.2/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/json_pure-2.0.2/data" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/json_pure-2.0.2/java" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/json_pure-2.0.2/tests" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/json_pure-2.0.2/tools" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/json_pure-2.0.2/diagrams" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/json_pure-2.0.2/references" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/json_pure-2.0.2/ext" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/json_pure-2.0.2/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/json_pure-2.0.2/data" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/json_pure-2.0.2/java" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/json_pure-2.0.2/tests" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/json_pure-2.0.2/tools" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/json_pure-2.0.2/diagrams" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/json_pure-2.0.2/references" />
+      </SOURCES>
+    </library>
+    <library name="json_pure (v2.0.2, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/json_pure-2.0.2/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/json_pure-2.0.2/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/json_pure-2.0.2/data" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/json_pure-2.0.2/java" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/json_pure-2.0.2/tests" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/json_pure-2.0.2/tools" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/json_pure-2.0.2/diagrams" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/json_pure-2.0.2/references" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/json_pure-2.0.2/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/json_pure-2.0.2/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/json_pure-2.0.2/data" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/json_pure-2.0.2/java" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/json_pure-2.0.2/tests" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/json_pure-2.0.2/tools" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/json_pure-2.0.2/diagrams" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/json_pure-2.0.2/references" />
+      </SOURCES>
+    </library>
+    <library name="judge (v2.1.1, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/judge-2.1.1/app" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/judge-2.1.1/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/judge-2.1.1/config" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/judge-2.1.1/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/judge-2.1.1/app" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/judge-2.1.1/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/judge-2.1.1/config" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/judge-2.1.1/vendor" />
+      </SOURCES>
+    </library>
+    <library name="judge-simple_form (v1.0.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/judge-simple_form-1.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/judge-simple_form-1.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="jwt (v1.5.4, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/jwt-1.5.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/jwt-1.5.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="kaminari (v0.17.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/kaminari-0.17.0/app" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/kaminari-0.17.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/kaminari-0.17.0/config" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/kaminari-0.17.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/kaminari-0.17.0/app" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/kaminari-0.17.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/kaminari-0.17.0/config" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/kaminari-0.17.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="launchy (v2.4.3, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/launchy-2.4.3/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/launchy-2.4.3/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/launchy-2.4.3/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/launchy-2.4.3/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/launchy-2.4.3/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/launchy-2.4.3/tasks" />
+      </SOURCES>
+    </library>
+    <library name="less (v2.6.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/less-2.6.0/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/less-2.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/less-2.6.0/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/less-2.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="less-rails (v2.7.1, Remote:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/less-rails-2.7.1/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/less-rails-2.7.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/less-rails-2.7.1/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/less-rails-2.7.1/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="less-rails (v2.7.1, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/less-rails-2.7.1/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/less-rails-2.7.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/less-rails-2.7.1/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/less-rails-2.7.1/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="letter_opener (v1.4.1, Remote:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/letter_opener-1.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/letter_opener-1.4.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="letter_opener (v1.4.1, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/letter_opener-1.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/letter_opener-1.4.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="letter_opener_web (v1.2.3, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/letter_opener_web-1.2.3/app" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/letter_opener_web-1.2.3/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/letter_opener_web-1.2.3/config" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/letter_opener_web-1.2.3/script" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/letter_opener_web-1.2.3/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/letter_opener_web-1.2.3/app" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/letter_opener_web-1.2.3/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/letter_opener_web-1.2.3/config" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/letter_opener_web-1.2.3/script" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/letter_opener_web-1.2.3/vendor" />
+      </SOURCES>
+    </library>
+    <library name="libv8 (v3.16.14.15, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/libv8/3.16.14.15" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/libv8-3.16.14.15-x86_64-darwin-14/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/libv8-3.16.14.15-x86_64-darwin-14/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/libv8-3.16.14.15-x86_64-darwin-14/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/libv8/3.16.14.15" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/libv8-3.16.14.15-x86_64-darwin-14/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/libv8-3.16.14.15-x86_64-darwin-14/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/libv8-3.16.14.15-x86_64-darwin-14/vendor" />
+      </SOURCES>
+    </library>
+    <library name="listen (v3.1.5, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/listen-3.1.5/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/listen-3.1.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/listen-3.1.5/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/listen-3.1.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="loofah (v2.0.3, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/loofah-2.0.3/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/loofah-2.0.3/benchmark" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/loofah-2.0.3/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/loofah-2.0.3/benchmark" />
+      </SOURCES>
+    </library>
+    <library name="lumberjack (v1.0.10, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/lumberjack-1.0.10/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/lumberjack-1.0.10/lib" />
+      </SOURCES>
+    </library>
+    <library name="mail (v2.6.4, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/mail-2.6.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/mail-2.6.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="method_source (v0.8.1, Remote:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/method_source-0.8.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/method_source-0.8.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="method_source (v0.8.2, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/method_source-0.8.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/method_source-0.8.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="mime-types (v2.99.2, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/mime-types-2.99.2/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/mime-types-2.99.2/data" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/mime-types-2.99.2/support" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/mime-types-2.99.2/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/mime-types-2.99.2/data" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/mime-types-2.99.2/support" />
+      </SOURCES>
+    </library>
+    <library name="mimemagic (v0.3.1, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/mimemagic-0.3.1/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/mimemagic-0.3.1/script" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/mimemagic-0.3.1/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/mimemagic-0.3.1/script" />
+      </SOURCES>
+    </library>
+    <library name="mini_magick (v4.5.1, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/mini_magick-4.5.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/mini_magick-4.5.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="mini_portile2 (v2.1.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/mini_portile2-2.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/mini_portile2-2.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="minitest (v5.8.3, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/minitest-5.8.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/minitest-5.8.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="minitest (v5.8.3, RVM: ruby-2.3.1 [global]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/minitest-5.8.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/minitest-5.8.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="minitest (v5.8.3, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/minitest-5.8.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/minitest-5.8.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="minitest (v5.9.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/minitest-5.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/minitest-5.9.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="multi_json (v1.12.1, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/multi_json-1.12.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/multi_json-1.12.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="multipart-post (v2.0.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/multipart-post-2.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/multipart-post-2.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="nenv (v0.3.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/nenv-0.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/nenv-0.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="net-telnet (v0.1.1, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/net-telnet-0.1.1/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/net-telnet-0.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/net-telnet-0.1.1/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/net-telnet-0.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="net-telnet (v0.1.1, RVM: ruby-2.3.1 [global]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/net-telnet-0.1.1/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/net-telnet-0.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/net-telnet-0.1.1/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/net-telnet-0.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="net-telnet (v0.1.1, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/net-telnet-0.1.1/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/net-telnet-0.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/net-telnet-0.1.1/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/net-telnet-0.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="netrc (v0.11.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/netrc-0.11.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/netrc-0.11.0/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/netrc-0.11.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/netrc-0.11.0/data" />
+      </SOURCES>
+    </library>
+    <library name="nokogiri (v1.6.8, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.6.8" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/nokogiri-1.6.8/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/nokogiri-1.6.8/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/nokogiri-1.6.8/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/nokogiri-1.6.8/tasks" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/nokogiri-1.6.8/patches" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/nokogiri-1.6.8/suppressions" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.6.8" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/nokogiri-1.6.8/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/nokogiri-1.6.8/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/nokogiri-1.6.8/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/nokogiri-1.6.8/tasks" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/nokogiri-1.6.8/patches" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/nokogiri-1.6.8/suppressions" />
+      </SOURCES>
+    </library>
+    <library name="notiffany (v0.1.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/notiffany-0.1.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/notiffany-0.1.0/images" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/notiffany-0.1.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/notiffany-0.1.0/images" />
+      </SOURCES>
+    </library>
+    <library name="numbers_and_words (v0.10.5, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/numbers_and_words-0.10.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/numbers_and_words-0.10.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="orm_adapter (v0.5.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/orm_adapter-0.5.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/orm_adapter-0.5.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/orm_adapter-0.5.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/orm_adapter-0.5.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="paper_trail (v4.0.2, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/paper_trail-4.0.2/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/paper_trail-4.0.2/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/paper_trail-4.0.2/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/paper_trail-4.0.2/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="parser (v2.3.1.2, Remote:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/parser-2.3.1.2/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/parser-2.3.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/parser-2.3.1.2/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/parser-2.3.1.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="parser (v2.3.1.2, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/parser-2.3.1.2/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/parser-2.3.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/parser-2.3.1.2/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/parser-2.3.1.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="pg (v0.18.4, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/pg/0.18.4" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/pg-0.18.4/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/pg-0.18.4/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/pg-0.18.4/sample" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/pg/0.18.4" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/pg-0.18.4/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/pg-0.18.4/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/pg-0.18.4/sample" />
+      </SOURCES>
+    </library>
+    <library name="pkg-config (v1.1.7, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/pkg-config-1.1.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/pkg-config-1.1.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="polyamorous (v1.3.1, Remote:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/polyamorous-1.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/polyamorous-1.3.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="polyamorous (v1.3.1, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/polyamorous-1.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/polyamorous-1.3.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="power_assert (v0.2.6, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/power_assert-0.2.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/power_assert-0.2.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="power_assert (v0.2.6, RVM: ruby-2.3.1 [global]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/power_assert-0.2.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/power_assert-0.2.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="power_assert (v0.2.6, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/power_assert-0.2.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/power_assert-0.2.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="powerpack (v0.1.1, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/powerpack-0.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/powerpack-0.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="premailer (v1.8.7, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/premailer-1.8.7/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/premailer-1.8.7/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/premailer-1.8.7/misc" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/premailer-1.8.7/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/premailer-1.8.7/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/premailer-1.8.7/misc" />
+      </SOURCES>
+    </library>
+    <library name="premailer-rails (v1.9.4, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/premailer-rails-1.9.4/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/premailer-rails-1.9.4/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/premailer-rails-1.9.4/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/premailer-rails-1.9.4/example" />
+      </SOURCES>
+    </library>
+    <library name="pry (v0.10.4, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/pry-0.10.4/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/pry-0.10.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/pry-0.10.4/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/pry-0.10.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="puppet (v4.5.3, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/puppet-4.5.3-universal-darwin/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/puppet-4.5.3-universal-darwin/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/puppet-4.5.3-universal-darwin/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/puppet-4.5.3-universal-darwin/man" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/puppet-4.5.3-universal-darwin/conf" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/puppet-4.5.3-universal-darwin/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/puppet-4.5.3-universal-darwin/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/puppet-4.5.3-universal-darwin/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/puppet-4.5.3-universal-darwin/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/puppet-4.5.3-universal-darwin/man" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/puppet-4.5.3-universal-darwin/conf" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/puppet-4.5.3-universal-darwin/tasks" />
+      </SOURCES>
+    </library>
+    <library name="rack (v1.6.4, Remote:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/rack-1.6.4/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/rack-1.6.4/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/rack-1.6.4/contrib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/rack-1.6.4/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/rack-1.6.4/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/rack-1.6.4/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/rack-1.6.4/contrib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/rack-1.6.4/example" />
+      </SOURCES>
+    </library>
+    <library name="rack (v1.6.4, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rack-1.6.4/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rack-1.6.4/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rack-1.6.4/contrib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rack-1.6.4/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rack-1.6.4/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rack-1.6.4/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rack-1.6.4/contrib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rack-1.6.4/example" />
+      </SOURCES>
+    </library>
+    <library name="rack-contrib (v1.4.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rack-contrib-1.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rack-contrib-1.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-mini-profiler (v0.10.1, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rack-mini-profiler-0.10.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rack-mini-profiler-0.10.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-protection (v1.5.3, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rack-protection-1.5.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rack-protection-1.5.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-test (v0.6.3, Remote:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/rack-test-0.6.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/rack-test-0.6.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-test (v0.6.3, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rack-test-0.6.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rack-test-0.6.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rails (v4.2.5.1, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rails-4.2.5.1/guides" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rails-4.2.5.1/guides" />
+      </SOURCES>
+    </library>
+    <library name="rails-deprecated_sanitizer (v1.0.3, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rails-deprecated_sanitizer-1.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rails-deprecated_sanitizer-1.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rails-dom-testing (v1.0.7, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rails-dom-testing-1.0.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rails-dom-testing-1.0.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="rails-erd (v1.4.7, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rails-erd-1.4.7/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rails-erd-1.4.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rails-erd-1.4.7/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rails-erd-1.4.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="rails-html-sanitizer (v1.0.3, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rails-html-sanitizer-1.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rails-html-sanitizer-1.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rails-settings-cached (v0.4.1, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rails-settings-cached-0.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rails-settings-cached-0.4.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="rails_12factor (v0.0.3, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rails_12factor-0.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rails_12factor-0.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rails_serve_static_assets (v0.0.5, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rails_serve_static_assets-0.0.5/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rails_serve_static_assets-0.0.5/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rails_serve_static_assets-0.0.5/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rails_serve_static_assets-0.0.5/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="rails_stdout_logging (v0.0.5, Remote:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/rails_stdout_logging-0.0.5/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/rails_stdout_logging-0.0.5/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/rails_stdout_logging-0.0.5/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/rails_stdout_logging-0.0.5/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="rails_stdout_logging (v0.0.5, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rails_stdout_logging-0.0.5/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rails_stdout_logging-0.0.5/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rails_stdout_logging-0.0.5/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rails_stdout_logging-0.0.5/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="railties (v4.2.5.1, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/railties-4.2.5.1/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/railties-4.2.5.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/railties-4.2.5.1/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/railties-4.2.5.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="rainbow (v2.1.0, Remote:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/rainbow-2.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/rainbow-2.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rainbow (v2.1.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rainbow-2.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rainbow-2.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rake (v0.9.2.2, RVM: ruby-1.9.3-p194 [global]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-1.9.3-p194@global/gems/rake-0.9.2.2/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-1.9.3-p194@global/gems/rake-0.9.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-1.9.3-p194@global/gems/rake-0.9.2.2/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-1.9.3-p194@global/gems/rake-0.9.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="rake (v10.4.2, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/rake-10.4.2/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/rake-10.4.2/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/rake-10.4.2/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/rake-10.4.2/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/rake-10.4.2/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/rake-10.4.2/rakelib" />
+      </SOURCES>
+    </library>
+    <library name="rake (v10.4.2, RVM: ruby-2.3.1 [global]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/rake-10.4.2/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/rake-10.4.2/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/rake-10.4.2/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/rake-10.4.2/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/rake-10.4.2/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/rake-10.4.2/rakelib" />
+      </SOURCES>
+    </library>
+    <library name="rake (v10.4.2, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/rake-10.4.2/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/rake-10.4.2/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/rake-10.4.2/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/rake-10.4.2/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/rake-10.4.2/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/rake-10.4.2/rakelib" />
+      </SOURCES>
+    </library>
+    <library name="rake (v11.2.2, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rake-11.2.2/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rake-11.2.2/exe" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rake-11.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rake-11.2.2/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rake-11.2.2/exe" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rake-11.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="ransack (v1.8.0, Remote:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/ransack-1.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/ransack-1.8.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="ransack (v1.8.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/ransack-1.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/ransack-1.8.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rb-fsevent (v0.9.7, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/rb-fsevent/0.9.7" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rb-fsevent-0.9.7/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rb-fsevent-0.9.7/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rb-fsevent-0.9.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/rb-fsevent/0.9.7" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rb-fsevent-0.9.7/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rb-fsevent-0.9.7/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rb-fsevent-0.9.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="rb-inotify (v0.9.7, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rb-inotify-0.9.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rb-inotify-0.9.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="rdoc (v4.2.2, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rdoc-4.2.2/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rdoc-4.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rdoc-4.2.2/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rdoc-4.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="redis (v3.3.1, Remote:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/redis-3.3.1/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/redis-3.3.1/.travis" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/redis-3.3.1/benchmarking" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/redis-3.3.1/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/redis-3.3.1/.travis" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/redis-3.3.1/benchmarking" />
+      </SOURCES>
+    </library>
+    <library name="redis (v3.3.1, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/redis-3.3.1/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/redis-3.3.1/.travis" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/redis-3.3.1/benchmarking" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/redis-3.3.1/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/redis-3.3.1/.travis" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/redis-3.3.1/benchmarking" />
+      </SOURCES>
+    </library>
+    <library name="redis-namespace (v1.5.2, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/redis-namespace-1.5.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/redis-namespace-1.5.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="ref (v2.0.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/ref-2.0.0/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/ref-2.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/ref-2.0.0/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/ref-2.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="request_store (v1.3.1, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/request_store-1.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/request_store-1.3.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="responders (v2.2.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/responders-2.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/responders-2.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rest-client (v1.8.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rest-client-1.8.0/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rest-client-1.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rest-client-1.8.0/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rest-client-1.8.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec (v3.5.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rspec-3.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rspec-3.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-core (v3.5.1, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rspec-core-3.5.1/exe" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rspec-core-3.5.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rspec-core-3.5.1/exe" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rspec-core-3.5.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-expectations (v3.5.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rspec-expectations-3.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rspec-expectations-3.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-html-matchers (v0.8.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rspec-html-matchers-0.8.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rspec-html-matchers-0.8.0/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rspec-html-matchers-0.8.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rspec-html-matchers-0.8.0/features" />
+      </SOURCES>
+    </library>
+    <library name="rspec-mocks (v3.5.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rspec-mocks-3.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rspec-mocks-3.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-rails (v3.5.1, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rspec-rails-3.5.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rspec-rails-3.5.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-support (v3.5.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rspec-support-3.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rspec-support-3.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rubocop (v0.42.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rubocop-0.42.0/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rubocop-0.42.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rubocop-0.42.0/assets" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rubocop-0.42.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rubocop-0.42.0/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rubocop-0.42.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rubocop-0.42.0/assets" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rubocop-0.42.0/config" />
+      </SOURCES>
+    </library>
+    <library name="ruby-debug-ide (v0.6.1.beta2, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/ruby-debug-ide-0.6.1.beta2/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/ruby-debug-ide-0.6.1.beta2/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/ruby-debug-ide-0.6.1.beta2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/ruby-debug-ide-0.6.1.beta2/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/ruby-debug-ide-0.6.1.beta2/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/ruby-debug-ide-0.6.1.beta2/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby-graphviz (v1.2.2, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/ruby-graphviz-1.2.2/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/ruby-graphviz-1.2.2/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/ruby-graphviz-1.2.2/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/ruby-graphviz-1.2.2/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/ruby-graphviz-1.2.2/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/ruby-graphviz-1.2.2/man" />
+      </SOURCES>
+    </library>
+    <library name="ruby-progressbar (v1.8.1, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/ruby-progressbar-1.8.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/ruby-progressbar-1.8.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby_dep (v1.3.1, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/ruby_dep-1.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/ruby_dep-1.3.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby_gntp (v0.3.4, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/ruby_gntp-0.3.4/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/ruby_gntp-0.3.4/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/ruby_gntp-0.3.4/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/ruby_gntp-0.3.4/example" />
+      </SOURCES>
+    </library>
+    <library name="rubygems-bundler (v1.0.7, RVM: ruby-1.9.3-p194 [global]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-1.9.3-p194@global/gems/rubygems-bundler-1.0.7/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-1.9.3-p194@global/gems/rubygems-bundler-1.0.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-1.9.3-p194@global/gems/rubygems-bundler-1.0.7/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-1.9.3-p194@global/gems/rubygems-bundler-1.0.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="rubygems-bundler (v1.4.4, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/rubygems-bundler-1.4.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/rubygems-bundler-1.4.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="rubygems-bundler (v1.4.4, RVM: ruby-2.3.1 [global]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/rubygems-bundler-1.4.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/rubygems-bundler-1.4.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="rubygems-bundler (v1.4.4, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/rubygems-bundler-1.4.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/rubygems-bundler-1.4.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="rubyzip (v1.2.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rubyzip-1.2.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rubyzip-1.2.0/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rubyzip-1.2.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/rubyzip-1.2.0/samples" />
+      </SOURCES>
+    </library>
+    <library name="rvm (v1.11.3.5, RVM: ruby-1.9.3-p194 [global]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-1.9.3-p194@global/gems/rvm-1.11.3.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-1.9.3-p194@global/gems/rvm-1.11.3.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="rvm (v1.11.3.9, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/rvm-1.11.3.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/rvm-1.11.3.9/lib" />
+      </SOURCES>
+    </library>
+    <library name="rvm (v1.11.3.9, RVM: ruby-2.3.1 [global]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/rvm-1.11.3.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/rvm-1.11.3.9/lib" />
+      </SOURCES>
+    </library>
+    <library name="rvm (v1.11.3.9, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/rvm-1.11.3.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/rvm-1.11.3.9/lib" />
+      </SOURCES>
+    </library>
+    <library name="safe_yaml (v1.0.4, Remote:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/safe_yaml-1.0.4/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/safe_yaml-1.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/safe_yaml-1.0.4/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/safe_yaml-1.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="safe_yaml (v1.0.4, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/safe_yaml-1.0.4/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/safe_yaml-1.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/safe_yaml-1.0.4/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/safe_yaml-1.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="sass (v3.2.19, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/sass-3.2.19/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/sass-3.2.19/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/sass-3.2.19/extra" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/sass-3.2.19/rails" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/sass-3.2.19/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/sass-3.2.19/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/sass-3.2.19/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/sass-3.2.19/extra" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/sass-3.2.19/rails" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/sass-3.2.19/vendor" />
+      </SOURCES>
+    </library>
+    <library name="sass-rails (v4.0.5, Remote:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/sass-rails-4.0.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/sass-rails-4.0.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="sass-rails (v4.0.5, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/sass-rails-4.0.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/sass-rails-4.0.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="scrub_rb (v1.0.1, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/scrub_rb-1.0.1/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/scrub_rb-1.0.1/benchmark" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/scrub_rb-1.0.1/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/scrub_rb-1.0.1/benchmark" />
+      </SOURCES>
+    </library>
+    <library name="sdoc (v0.4.1, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/sdoc-0.4.1/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/sdoc-0.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/sdoc-0.4.1/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/sdoc-0.4.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="shellany (v0.0.1, Remote:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/shellany-0.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/shellany-0.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="shellany (v0.0.1, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/shellany-0.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/shellany-0.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="shoulda-matchers (v3.1.1, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/shoulda-matchers-3.1.1/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/shoulda-matchers-3.1.1/tasks" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/shoulda-matchers-3.1.1/script" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/shoulda-matchers-3.1.1/gemfiles" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/shoulda-matchers-3.1.1/doc_config" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/shoulda-matchers-3.1.1/.hound_config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/shoulda-matchers-3.1.1/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/shoulda-matchers-3.1.1/tasks" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/shoulda-matchers-3.1.1/script" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/shoulda-matchers-3.1.1/gemfiles" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/shoulda-matchers-3.1.1/doc_config" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/shoulda-matchers-3.1.1/.hound_config" />
+      </SOURCES>
+    </library>
+    <library name="simple-random (v1.0.3, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/simple-random-1.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/simple-random-1.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="simple_form (v3.2.1, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/simple_form-3.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/simple_form-3.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="simplecov (v0.12.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/simplecov-0.12.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/simplecov-0.12.0/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/simplecov-0.12.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/simplecov-0.12.0/features" />
+      </SOURCES>
+    </library>
+    <library name="simplecov-html (v0.10.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/simplecov-html-0.10.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/simplecov-html-0.10.0/views" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/simplecov-html-0.10.0/assets" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/simplecov-html-0.10.0/public" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/simplecov-html-0.10.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/simplecov-html-0.10.0/views" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/simplecov-html-0.10.0/assets" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/simplecov-html-0.10.0/public" />
+      </SOURCES>
+    </library>
+    <library name="simplecov-rcov (v0.2.3, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/simplecov-rcov-0.2.3/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/simplecov-rcov-0.2.3/views" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/simplecov-rcov-0.2.3/assets" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/simplecov-rcov-0.2.3/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/simplecov-rcov-0.2.3/views" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/simplecov-rcov-0.2.3/assets" />
+      </SOURCES>
+    </library>
+    <library name="sinatra (v1.4.7, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/sinatra-1.4.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/sinatra-1.4.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="skylight (v0.10.5, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/skylight/0.10.5" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/skylight-0.10.5/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/skylight-0.10.5/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/skylight-0.10.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/skylight/0.10.5" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/skylight-0.10.5/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/skylight-0.10.5/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/skylight-0.10.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="slack-notifier (v1.5.1, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/slack-notifier-1.5.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/slack-notifier-1.5.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="slop (v3.6.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/slop-3.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/slop-3.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="split (v2.0.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/split-2.0.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/split-2.0.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/split-2.0.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/split-2.0.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="spring (v1.7.2, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/spring-1.7.2/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/spring-1.7.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/spring-1.7.2/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/spring-1.7.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="spring-commands-rspec (v1.0.4, Remote:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/spring-commands-rspec-1.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/spring-commands-rspec-1.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="spring-commands-rspec (v1.0.4, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/spring-commands-rspec-1.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/spring-commands-rspec-1.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="sprockets (v2.12.4, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/sprockets-2.12.4/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/sprockets-2.12.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/sprockets-2.12.4/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/sprockets-2.12.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="sprockets-rails (v2.3.3, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/sprockets-rails-2.3.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/sprockets-rails-2.3.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="stackprof (v0.2.9, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/stackprof/0.2.9" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/stackprof-0.2.9/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/stackprof-0.2.9/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/stackprof-0.2.9/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/stackprof-0.2.9/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/stackprof/0.2.9" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/stackprof-0.2.9/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/stackprof-0.2.9/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/stackprof-0.2.9/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/stackprof-0.2.9/vendor" />
+      </SOURCES>
+    </library>
+    <library name="stripe (v1.20.1, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/stripe-1.20.1/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/stripe-1.20.1/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/stripe-1.20.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/stripe-1.20.1/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/stripe-1.20.1/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/stripe-1.20.1/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="stripe-ruby-mock (v2.0.5, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/stripe-ruby-mock-2.0.5/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/stripe-ruby-mock-2.0.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/stripe-ruby-mock-2.0.5/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/stripe-ruby-mock-2.0.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="stripe_event (v1.5.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/stripe_event-1.5.0/app" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/stripe_event-1.5.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/stripe_event-1.5.0/config" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/stripe_event-1.5.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/stripe_event-1.5.0/app" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/stripe_event-1.5.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/stripe_event-1.5.0/config" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/stripe_event-1.5.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="symmetric-encryption (v3.8.3, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/symmetric-encryption-3.8.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/symmetric-encryption-3.8.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="term-ansicolor (v1.3.2, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/term-ansicolor-1.3.2/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/term-ansicolor-1.3.2/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/term-ansicolor-1.3.2/tests" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/term-ansicolor-1.3.2/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/term-ansicolor-1.3.2/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/term-ansicolor-1.3.2/tests" />
+      </SOURCES>
+    </library>
+    <library name="terminal-table (v1.6.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/terminal-table-1.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/terminal-table-1.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="test-unit (v3.1.5, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/test-unit-3.1.5/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/test-unit-3.1.5/sample" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/test-unit-3.1.5/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/test-unit-3.1.5/sample" />
+      </SOURCES>
+    </library>
+    <library name="test-unit (v3.1.5, RVM: ruby-2.3.1 [global]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/test-unit-3.1.5/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/test-unit-3.1.5/sample" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/test-unit-3.1.5/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/test-unit-3.1.5/sample" />
+      </SOURCES>
+    </library>
+    <library name="test-unit (v3.1.5, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/test-unit-3.1.5/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/test-unit-3.1.5/sample" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/test-unit-3.1.5/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@global/gems/test-unit-3.1.5/sample" />
+      </SOURCES>
+    </library>
+    <library name="therubyracer (v0.12.2, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/therubyracer/0.12.2" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/therubyracer-0.12.2/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/therubyracer-0.12.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/therubyracer/0.12.2" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/therubyracer-0.12.2/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/therubyracer-0.12.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="thor (v0.19.1, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/thor-0.19.1/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/thor-0.19.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/thor-0.19.1/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/thor-0.19.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="thread (v0.2.2, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/thread-0.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/thread-0.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="thread_safe (v0.3.5, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/thread_safe-0.3.5/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/thread_safe-0.3.5/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/thread_safe-0.3.5/tasks" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/thread_safe-0.3.5/yard-template" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/thread_safe-0.3.5/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/thread_safe-0.3.5/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/thread_safe-0.3.5/tasks" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/thread_safe-0.3.5/yard-template" />
+      </SOURCES>
+    </library>
+    <library name="tilt (v1.4.1, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/tilt-1.4.1/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/tilt-1.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/tilt-1.4.1/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/tilt-1.4.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="timecop (v0.8.1, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/timecop-0.8.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/timecop-0.8.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="tins (v1.11.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/tins-1.11.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/tins-1.11.0/tests" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/tins-1.11.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/tins-1.11.0/tests" />
+      </SOURCES>
+    </library>
+    <library name="tolk (v1.9.3, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/tolk-1.9.3/app" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/tolk-1.9.3/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/tolk-1.9.3/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/tolk-1.9.3/app" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/tolk-1.9.3/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/tolk-1.9.3/config" />
+      </SOURCES>
+    </library>
+    <library name="turbolinks (v5.0.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/turbolinks-5.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/turbolinks-5.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="turbolinks-source (v5.0.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/turbolinks-source-5.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/turbolinks-source-5.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="twilio-ruby (v4.2.1, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/twilio-ruby-4.2.1/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/twilio-ruby-4.2.1/conf" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/twilio-ruby-4.2.1/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/twilio-ruby-4.2.1/conf" />
+      </SOURCES>
+    </library>
+    <library name="twitter-bootstrap-rails (v3.2.2, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/twitter-bootstrap-rails-3.2.2/app" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/twitter-bootstrap-rails-3.2.2/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/twitter-bootstrap-rails-3.2.2/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/twitter-bootstrap-rails-3.2.2/app" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/twitter-bootstrap-rails-3.2.2/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/twitter-bootstrap-rails-3.2.2/vendor" />
+      </SOURCES>
+    </library>
+    <library name="twitter-typeahead-rails (v0.11.1, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/twitter-typeahead-rails-0.11.1/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/twitter-typeahead-rails-0.11.1/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/twitter-typeahead-rails-0.11.1/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/twitter-typeahead-rails-0.11.1/vendor" />
+      </SOURCES>
+    </library>
+    <library name="tzinfo (v1.2.2, Remote:ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/tzinfo-1.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/587942974/-472250549/gems/tzinfo-1.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="tzinfo (v1.2.2, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/tzinfo-1.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/tzinfo-1.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="uglifier (v3.0.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/uglifier-3.0.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/uglifier-3.0.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/uglifier-3.0.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/uglifier-3.0.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="ultrahook (v0.1.4, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/ultrahook-0.1.4/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/ultrahook-0.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/ultrahook-0.1.4/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/ultrahook-0.1.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="unf (v0.1.4, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/unf-0.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/unf-0.1.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="unf_ext (v0.0.7.2, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/unf_ext-0.0.7.2/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/unf_ext-0.0.7.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/unf_ext-0.0.7.2/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/unf_ext-0.0.7.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="unicode-display_width (v1.1.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/unicode-display_width-1.1.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/unicode-display_width-1.1.0/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/unicode-display_width-1.1.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/unicode-display_width-1.1.0/data" />
+      </SOURCES>
+    </library>
+    <library name="warden (v1.2.6, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/warden-1.2.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/warden-1.2.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="web-console (v2.3.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/web-console-2.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/web-console-2.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="webmock (v2.1.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/webmock-2.1.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/webmock-2.1.0/minitest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/webmock-2.1.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/webmock-2.1.0/minitest" />
+      </SOURCES>
+    </library>
+    <library name="xpath (v2.0.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/xpath-2.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/xpath-2.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="zendesk_api (v1.14.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/zendesk_api-1.14.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/zendesk_api-1.14.0/util" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/zendesk_api-1.14.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.3.1@alice/gems/zendesk_api-1.14.0/util" />
+      </SOURCES>
+    </library>
+  </component>
+</application>
