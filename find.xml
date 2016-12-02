@@ -1,0 +1,7 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Project 'alice'" />
+    <option name="defaultScopeName" value="Project 'alice'" />
+    <option name="SEARCH_SCOPE" value="Project 'alice'" />
+  </component>
+</application>
