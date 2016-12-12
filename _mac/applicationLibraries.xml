@@ -550,6 +550,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/capybara-2.6.2/lib" />
       </SOURCES>
     </library>
+    <library name="capybara-webmock (v0.3.0, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/capybara-webmock-0.3.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/capybara-webmock-0.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/capybara-webmock-0.3.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/capybara-webmock-0.3.0/lib" />
+      </SOURCES>
+    </library>
     <library name="carrierwave (v0.11.2, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/carrierwave-0.11.2/lib" />
@@ -2710,6 +2720,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/pry-0.10.4/lib" />
       </SOURCES>
     </library>
+    <library name="public_suffix (v2.0.4, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/public_suffix-2.0.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/public_suffix-2.0.4/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/public_suffix-2.0.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/public_suffix-2.0.4/data" />
+      </SOURCES>
+    </library>
     <library name="puma (v3.6.0, RVM: ruby-2.3.1 [alice_radiator]) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/puma/3.6.0" />
@@ -2812,6 +2832,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rack-protection-1.5.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-proxy (v0.6.0, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rack-proxy-0.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rack-proxy-0.6.0/lib" />
       </SOURCES>
     </library>
     <library name="rack-test (v0.6.3, RVM: ruby-2.3.1 [alice_radiator]) [gem]">
@@ -3618,6 +3646,14 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/sdoc-0.4.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/sdoc-0.4.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="selenium-webdriver (v2.53.4, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/selenium-webdriver-2.53.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/selenium-webdriver-2.53.4/lib" />
       </SOURCES>
     </library>
     <library name="shellany (v0.0.1, RVM: ruby-2.3.1 [alice_radiator]) [gem]">
