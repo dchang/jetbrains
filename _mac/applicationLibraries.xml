@@ -330,6 +330,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/axiom-types-0.1.1/config" />
       </SOURCES>
     </library>
+    <library name="babel-source (v5.8.35, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/babel-source-5.8.35/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/babel-source-5.8.35/lib" />
+      </SOURCES>
+    </library>
+    <library name="babel-transpiler (v0.7.0, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/babel-transpiler-0.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/babel-transpiler-0.7.0/lib" />
+      </SOURCES>
+    </library>
     <library name="bcrypt (v3.1.11, RVM: ruby-2.3.1 [alice_radiator]) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.11" />
@@ -830,6 +846,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/connection_pool-2.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="connection_pool (v2.2.1, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/connection_pool-2.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/connection_pool-2.2.1/lib" />
       </SOURCES>
     </library>
     <library name="cookiejar (v0.3.0, RVM: ruby-2.3.1) [gem]">
@@ -3200,6 +3224,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rails-5.0.0.1" />
       </SOURCES>
     </library>
+    <library name="rails-assets-react-router (v4.0.0.2, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rails-assets-react-router-4.0.0.2/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rails-assets-react-router-4.0.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rails-assets-react-router-4.0.0.2/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rails-assets-react-router-4.0.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="rails-deprecated_sanitizer (v1.0.3, RVM: ruby-2.3.1 [alice_radiator]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/rails-deprecated_sanitizer-1.0.3/lib" />
@@ -3524,6 +3558,14 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/rdoc-4.3.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/rdoc-4.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="react-rails (v1.10.0, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/react-rails-1.10.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/react-rails-1.10.0/lib" />
       </SOURCES>
     </library>
     <library name="redis (v3.3.1, RVM: ruby-2.3.1 [alice_radiator]) [gem]">
