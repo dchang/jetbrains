@@ -3234,6 +3234,36 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rails-assets-react-router-4.0.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="rails-assets-vue (v2.1.7, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rails-assets-vue-2.1.7/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rails-assets-vue-2.1.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rails-assets-vue-2.1.7/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rails-assets-vue-2.1.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="rails-assets-vue-resource (v1.0.3, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rails-assets-vue-resource-1.0.3/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rails-assets-vue-resource-1.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rails-assets-vue-resource-1.0.3/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rails-assets-vue-resource-1.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rails-assets-vue-router (v2.1.1, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rails-assets-vue-router-2.1.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rails-assets-vue-router-2.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rails-assets-vue-router-2.1.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rails-assets-vue-router-2.1.1/lib" />
+      </SOURCES>
+    </library>
     <library name="rails-deprecated_sanitizer (v1.0.3, RVM: ruby-2.3.1 [alice_radiator]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/rails-deprecated_sanitizer-1.0.3/lib" />
