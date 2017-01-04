@@ -1332,6 +1332,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/factory_girl_rails-4.7.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="faker (v1.7.2, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/faker-1.7.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/faker-1.7.2/lib" />
+      </SOURCES>
+    </library>
     <library name="faraday (v0.10.0, RVM: ruby-2.3.1 [alice_radiator]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/faraday-0.10.0/lib" />
