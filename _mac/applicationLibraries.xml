@@ -428,6 +428,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/bourbon-3.2.4/features" />
       </SOURCES>
     </library>
+    <library name="brakeman (v3.4.1, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/brakeman-3.4.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/brakeman-3.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/brakeman-3.4.1/bundle" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/brakeman-3.4.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/brakeman-3.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/brakeman-3.4.1/bundle" />
+      </SOURCES>
+    </library>
     <library name="browser (v2.2.0, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/browser-2.2.0/bin" />
@@ -1926,6 +1938,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/inherited_resources-1.6.0/lib" />
       </SOURCES>
     </library>
+    <library name="interception (v0.5, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/interception-0.5/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/interception-0.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/interception-0.5/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/interception-0.5/lib" />
+      </SOURCES>
+    </library>
     <library name="io-console (v0.4.5, RVM: ruby-2.3.1 [alice_radiator]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/io" />
@@ -2060,6 +2082,14 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/bigdecimal" />
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/x86_64-darwin16" />
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/unicode_normalize" />
+      </SOURCES>
+    </library>
+    <library name="io-like (v0.3.0, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/io-like-0.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/io-like-0.3.0/lib" />
       </SOURCES>
     </library>
     <library name="jbuilder (v2.6.0, RVM: ruby-2.3.1 [alice_radiator]) [gem]">
@@ -2560,6 +2590,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/minitest-5.9.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="minitest (v5.9.1, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/minitest-5.9.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/minitest-5.9.1/lib" />
       </SOURCES>
     </library>
     <library name="multi_json (v1.11.2, RVM: ruby-2.3.1) [gem]">
@@ -3520,6 +3558,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/rake-11.3.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/rake-11.3.0/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/rake-11.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rake (v11.3.0, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rake-11.3.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rake-11.3.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rake-11.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rake-11.3.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rake-11.3.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rake-11.3.0/lib" />
       </SOURCES>
     </library>
     <library name="rake (v12.0.0, RVM: ruby-2.3.1) [gem]">
@@ -4804,6 +4854,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/tins-1.11.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/tins-1.11.0/tests" />
+      </SOURCES>
+    </library>
+    <library name="tins (v1.12.0, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/tins-1.12.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/tins-1.12.0/tests" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/tins-1.12.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/tins-1.12.0/tests" />
       </SOURCES>
     </library>
     <library name="tolk (v1.9.3, RVM: ruby-2.3.1) [gem]">
