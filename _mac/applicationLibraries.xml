@@ -860,6 +860,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/connection_pool-2.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="connection_pool (v2.2.1, RVM: ruby-2.3.1 [alice_radiator]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/connection_pool-2.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/connection_pool-2.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="connection_pool (v2.2.1, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/connection_pool-2.2.1/lib" />
@@ -932,6 +940,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/dashing-rails-2.5.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/dashing-rails-2.5.0/config" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/dashing-rails-2.5.0/vendor" />
+      </SOURCES>
+    </library>
+    <library name="dashing-rails (v2.6.1, RVM: ruby-2.3.1 [alice_radiator]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/dashing-rails-2.6.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/dashing-rails-2.6.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/dashing-rails-2.6.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/dashing-rails-2.6.1/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/dashing-rails-2.6.1/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/dashing-rails-2.6.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/dashing-rails-2.6.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/dashing-rails-2.6.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/dashing-rails-2.6.1/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/dashing-rails-2.6.1/vendor" />
       </SOURCES>
     </library>
     <library name="database_cleaner (v1.5.3, RVM: ruby-2.3.1) [gem]">
@@ -1142,6 +1166,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/domain_name-0.5.20160826/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/domain_name-0.5.20160826/data" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/domain_name-0.5.20160826/tool" />
+      </SOURCES>
+    </library>
+    <library name="domain_name (v0.5.20161129, RVM: ruby-2.3.1 [alice_radiator]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/domain_name-0.5.20161129/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/domain_name-0.5.20161129/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/domain_name-0.5.20161129/tool" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/domain_name-0.5.20161129/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/domain_name-0.5.20161129/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/domain_name-0.5.20161129/tool" />
       </SOURCES>
     </library>
     <library name="easy_translate (v0.5.0, RVM: ruby-2.3.1) [gem]">
@@ -1412,6 +1448,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/ffi-1.9.14/gen" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/ffi-1.9.14/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/ffi-1.9.14/libtest" />
+      </SOURCES>
+    </library>
+    <library name="ffi (v1.9.17, RVM: ruby-2.3.1 [alice_radiator]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.9.17" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/ffi-1.9.17/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/ffi-1.9.17/gen" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/ffi-1.9.17/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/ffi-1.9.17/libtest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.9.17" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/ffi-1.9.17/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/ffi-1.9.17/gen" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/ffi-1.9.17/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/ffi-1.9.17/libtest" />
       </SOURCES>
     </library>
     <library name="flamegraph (v0.9.5, RVM: ruby-2.3.1) [gem]">
@@ -1696,6 +1748,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/hashie-3.4.6/lib" />
       </SOURCES>
     </library>
+    <library name="hashie (v3.5.3, RVM: ruby-2.3.1 [alice_radiator]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/hashie-3.5.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/hashie-3.5.3/lib" />
+      </SOURCES>
+    </library>
     <library name="hashie-forbidden_attributes (v0.1.1, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/hashie-forbidden_attributes-0.1.1/lib" />
@@ -1776,6 +1836,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/http-cookie-1.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="http-cookie (v1.0.3, RVM: ruby-2.3.1 [alice_radiator]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/http-cookie-1.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/http-cookie-1.0.3/lib" />
       </SOURCES>
     </library>
     <library name="http-form_data (v1.0.1, RVM: ruby-2.3.1) [gem]">
@@ -2112,6 +2180,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/jbuilder-2.6.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="jbuilder (v2.6.1, RVM: ruby-2.3.1 [alice_radiator]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/jbuilder-2.6.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/jbuilder-2.6.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/jbuilder-2.6.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/jbuilder-2.6.1/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="jbuilder (v2.6.1, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/jbuilder-2.6.1/lib" />
@@ -2152,6 +2230,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/jquery-rails-4.2.1/vendor" />
       </SOURCES>
     </library>
+    <library name="jquery-rails (v4.2.2, RVM: ruby-2.3.1 [alice_radiator]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/jquery-rails-4.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/jquery-rails-4.2.2/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/jquery-rails-4.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/jquery-rails-4.2.2/vendor" />
+      </SOURCES>
+    </library>
     <library name="jquery-ui-rails (v5.0.5, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/jquery-ui-rails-5.0.5/app" />
@@ -2160,6 +2248,28 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/jquery-ui-rails-5.0.5/app" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/jquery-ui-rails-5.0.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="json (v1.8.6, RVM: ruby-2.3.1 [alice_radiator]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json/1.8.6" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/json-1.8.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/json-1.8.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/json-1.8.6/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/json-1.8.6/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/json-1.8.6/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/json-1.8.6/tools" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/json-1.8.6/diagrams" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json/1.8.6" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/json-1.8.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/json-1.8.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/json-1.8.6/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/json-1.8.6/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/json-1.8.6/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/json-1.8.6/tools" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/json-1.8.6/diagrams" />
       </SOURCES>
     </library>
     <library name="judge (v2.1.1, RVM: ruby-2.3.1) [gem]">
@@ -3116,6 +3226,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/public_suffix-2.0.4/data" />
       </SOURCES>
     </library>
+    <library name="public_suffix (v2.0.5, RVM: ruby-2.3.1 [alice_radiator]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/public_suffix-2.0.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/public_suffix-2.0.5/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/public_suffix-2.0.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/public_suffix-2.0.5/data" />
+      </SOURCES>
+    </library>
     <library name="puffing-billy (v0.8.0@110b00, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/puffing-billy-110b00bdf285/bin" />
@@ -3572,6 +3692,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rake-11.3.0/lib" />
       </SOURCES>
     </library>
+    <library name="rake (v12.0.0, RVM: ruby-2.3.1 [alice_radiator]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/rake-12.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/rake-12.0.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/rake-12.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/rake-12.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/rake-12.0.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/rake-12.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rake (v12.0.0, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rake-12.0.0/bin" />
@@ -3662,6 +3794,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rb-inotify-0.9.7/lib" />
       </SOURCES>
     </library>
+    <library name="rb-inotify (v0.9.8, RVM: ruby-2.3.1 [alice_radiator]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/rb-inotify-0.9.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/rb-inotify-0.9.8/lib" />
+      </SOURCES>
+    </library>
     <library name="rdoc (v4.2.2, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rdoc-4.2.2/bin" />
@@ -3712,6 +3852,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/redis-3.3.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/redis-3.3.1/.travis" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/redis-3.3.1/benchmarking" />
+      </SOURCES>
+    </library>
+    <library name="redis (v3.3.3, RVM: ruby-2.3.1 [alice_radiator]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/redis-3.3.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/redis-3.3.3/.travis" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/redis-3.3.3/benchmarking" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/redis-3.3.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/redis-3.3.3/.travis" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/redis-3.3.3/benchmarking" />
       </SOURCES>
     </library>
     <library name="redis-namespace (v1.5.2, RVM: ruby-2.3.1) [gem]">
@@ -4760,6 +4912,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/thor-0.19.1/lib" />
       </SOURCES>
     </library>
+    <library name="thor (v0.19.4, RVM: ruby-2.3.1 [alice_radiator]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/thor-0.19.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/thor-0.19.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/thor-0.19.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/thor-0.19.4/lib" />
+      </SOURCES>
+    </library>
     <library name="thor (v0.19.4, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/thor-0.19.4/bin" />
@@ -5000,6 +5162,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/uglifier-3.0.3/lib" />
       </SOURCES>
     </library>
+    <library name="uglifier (v3.0.4, RVM: ruby-2.3.1 [alice_radiator]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/uglifier-3.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/uglifier-3.0.4/lib" />
+      </SOURCES>
+    </library>
     <library name="uglifier (v3.0.4, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/uglifier-3.0.4/lib" />
@@ -5016,6 +5186,14 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/ultrahook-0.1.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/ultrahook-0.1.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="unf (v0.1.4, RVM: ruby-2.3.1 [alice_radiator]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/unf-0.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/unf-0.1.4/lib" />
       </SOURCES>
     </library>
     <library name="unf (v0.1.4, RVM: ruby-2.3.1) [gem]">
