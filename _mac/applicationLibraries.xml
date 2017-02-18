@@ -1982,6 +1982,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/httpclient-2.8.0/sample" />
       </SOURCES>
     </library>
+    <library name="hubspot-ruby (v0.2.1, RVM: ruby-2.3.1 [alice_radiator]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/hubspot-ruby-0.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/hubspot-ruby-0.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="humanize (v1.1.2, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/humanize-1.1.2/lib" />
@@ -5118,6 +5126,18 @@
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/therubyracer/0.12.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/therubyracer-0.12.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/therubyracer-0.12.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="therubyracer (v0.12.3, RVM: ruby-2.3.1 [alice_radiator]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/therubyracer/0.12.3" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/therubyracer-0.12.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/therubyracer-0.12.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/therubyracer/0.12.3" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/therubyracer-0.12.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/therubyracer-0.12.3/lib" />
       </SOURCES>
     </library>
     <library name="thor (v0.19.1, RVM: ruby-2.3.1 [alice_radiator]) [gem]">
