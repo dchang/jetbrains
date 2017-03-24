@@ -476,6 +476,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/airbrake-ruby-1.7.1/lib" />
       </SOURCES>
     </library>
+    <library name="annotate (v2.6.5, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/annotate-2.6.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/annotate-2.6.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/annotate-2.6.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/annotate-2.6.5/lib" />
+      </SOURCES>
+    </library>
     <library name="annotate (v2.7.1, RVM: ruby-2.3.1 [alice]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/annotate-2.7.1/bin" />
