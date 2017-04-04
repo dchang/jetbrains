@@ -3680,6 +3680,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/http_parser.rb-0.6.0/tasks" />
       </SOURCES>
     </library>
+    <library name="httparty (v0.14.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/httparty-0.14.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/httparty-0.14.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/httparty-0.14.0/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/httparty-0.14.0/website" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/httparty-0.14.0/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/httparty-0.14.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/httparty-0.14.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/httparty-0.14.0/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/httparty-0.14.0/website" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/httparty-0.14.0/features" />
+      </SOURCES>
+    </library>
     <library name="httparty (v0.14.0, RVM: ruby-2.3.1 [alice_radiator]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/httparty-0.14.0/bin" />
