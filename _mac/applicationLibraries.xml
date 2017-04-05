@@ -6670,6 +6670,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rack-contrib-1.4.0/lib" />
       </SOURCES>
     </library>
+    <library name="rack-host-redirect (v1.2.1, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/rack-host-redirect-1.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/rack-host-redirect-1.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="rack-mini-profiler (v0.10.1, RVM: ruby-2.3.1 [alice]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/rack-mini-profiler-0.10.1/lib" />
@@ -8198,6 +8206,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rubyzip-1.2.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rubyzip-1.2.0/samples" />
+      </SOURCES>
+    </library>
+    <library name="rubyzip (v1.2.1, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/rubyzip-1.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/rubyzip-1.2.1/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/rubyzip-1.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/rubyzip-1.2.1/samples" />
       </SOURCES>
     </library>
     <library name="rufus-scheduler (v3.2.2, RVM: ruby-2.3.1 [alice_radiator]) [gem]">
