@@ -208,6 +208,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/activeadmin-poro-decorator-0.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="activeadmin_settings_cached (v1.0.1, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/activeadmin_settings_cached-1.0.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/activeadmin_settings_cached-1.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/activeadmin_settings_cached-1.0.1/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/activeadmin_settings_cached-1.0.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/activeadmin_settings_cached-1.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/activeadmin_settings_cached-1.0.1/config" />
+      </SOURCES>
+    </library>
     <library name="activejob (v4.2.7.1, RVM: ruby-2.3.1 [alice]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/activejob-4.2.7.1/lib" />
