@@ -156,6 +156,24 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/active_skin-0.0.12/lib" />
       </SOURCES>
     </library>
+    <library name="activeadmin (v1.0.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/activeadmin-1.0.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/activeadmin-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/activeadmin-1.0.0/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/activeadmin-1.0.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/activeadmin-1.0.0/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/activeadmin-1.0.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/activeadmin-1.0.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/activeadmin-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/activeadmin-1.0.0/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/activeadmin-1.0.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/activeadmin-1.0.0/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/activeadmin-1.0.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="activeadmin (v1.0.0.pre4, RVM: ruby-2.3.1 [alice]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/activeadmin-1.0.0.pre4/app" />
@@ -1984,6 +2002,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/delayed_job_web-1.2.10/lib" />
       </SOURCES>
     </library>
+    <library name="delayed_job_web (v1.4, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/delayed_job_web-1.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/delayed_job_web-1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/delayed_job_web-1.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/delayed_job_web-1.4/lib" />
+      </SOURCES>
+    </library>
     <library name="descendants_tracker (v0.0.4, RVM: ruby-2.3.1 [alice]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/descendants_tracker-0.0.4/lib" />
@@ -2080,6 +2108,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/devise-authy-1.7.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/devise-authy-1.7.0/config" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/devise-authy-1.7.0/authy-devise-demo" />
+      </SOURCES>
+    </library>
+    <library name="devise-authy (v1.8.1, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/devise-authy-1.8.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/devise-authy-1.8.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/devise-authy-1.8.1/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/devise-authy-1.8.1/authy-devise-demo" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/devise-authy-1.8.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/devise-authy-1.8.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/devise-authy-1.8.1/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/devise-authy-1.8.1/authy-devise-demo" />
       </SOURCES>
     </library>
     <library name="devise_invitable (v1.5.5, RVM: ruby-2.3.1 [alice]) [gem]">
@@ -2774,6 +2816,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/ffi-1.9.17/libtest" />
       </SOURCES>
     </library>
+    <library name="ffi (v1.9.18, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.9.18" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/ffi-1.9.18/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/ffi-1.9.18/gen" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/ffi-1.9.18/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/ffi-1.9.18/libtest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.9.18" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/ffi-1.9.18/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/ffi-1.9.18/gen" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/ffi-1.9.18/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/ffi-1.9.18/libtest" />
+      </SOURCES>
+    </library>
     <library name="ffi (v1.9.18, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.9.18" />
@@ -2828,6 +2886,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/font-awesome-less-4.6.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/font-awesome-less-4.6.2/assets" />
+      </SOURCES>
+    </library>
+    <library name="font-awesome-sass (v4.6.2, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/font-awesome-sass-4.6.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/font-awesome-sass-4.6.2/assets" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/font-awesome-sass-4.6.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/font-awesome-sass-4.6.2/assets" />
       </SOURCES>
     </library>
     <library name="foreman (v0.82.0, RVM: ruby-2.3.1 [alice]) [gem]">
@@ -2914,6 +2982,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/formtastic-3.1.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/formtastic-3.1.4/sample" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/formtastic-3.1.4/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="formtastic (v3.1.5, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/formtastic-3.1.5/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/formtastic-3.1.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/formtastic-3.1.5/sample" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/formtastic-3.1.5/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/formtastic-3.1.5/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/formtastic-3.1.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/formtastic-3.1.5/sample" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/formtastic-3.1.5/gemfiles" />
       </SOURCES>
     </library>
     <library name="formtastic_i18n (v0.6.0, RVM: ruby-2.3.1 [alice]) [gem]">
@@ -3164,6 +3246,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/grape-0.18.0/pkg" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/grape-0.18.0/gemfiles" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/grape-0.18.0/benchmark" />
+      </SOURCES>
+    </library>
+    <library name="grape (v0.19.2, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/grape-0.19.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/grape-0.19.2/pkg" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/grape-0.19.2/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/grape-0.19.2/benchmark" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/grape-0.19.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/grape-0.19.2/pkg" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/grape-0.19.2/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/grape-0.19.2/benchmark" />
       </SOURCES>
     </library>
     <library name="grape-entity (v0.6.0, RVM: ruby-2.3.1 [alice]) [gem]">
@@ -3472,6 +3568,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/hashie-3.5.3/lib" />
       </SOURCES>
     </library>
+    <library name="hashie (v3.5.5, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/hashie-3.5.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/hashie-3.5.5/lib" />
+      </SOURCES>
+    </library>
     <library name="hashie (v3.5.5, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/hashie-3.5.5/lib" />
@@ -3572,6 +3676,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/holidays-5.3.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/holidays-5.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="holidays (v5.6.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/holidays-5.6.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/holidays-5.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/holidays-5.6.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/holidays-5.6.0/lib" />
       </SOURCES>
     </library>
     <library name="htmlbeautifier (v1.1.1, RVM: ruby-2.3.1 [alice]) [gem]">
@@ -5636,6 +5750,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/mustermann-grape-0.4.0/lib" />
       </SOURCES>
     </library>
+    <library name="mustermann-grape (v1.0.0, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/mustermann-grape-1.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/mustermann-grape-1.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="naturalsort (v1.2.0, RVM: ruby-2.3.1 [alice]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/naturalsort-1.2.0/lib" />
@@ -6562,6 +6684,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/public_suffix-2.0.4/data" />
       </SOURCES>
     </library>
+    <library name="public_suffix (v2.0.5, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/public_suffix-2.0.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/public_suffix-2.0.5/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/public_suffix-2.0.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/public_suffix-2.0.5/data" />
+      </SOURCES>
+    </library>
     <library name="public_suffix (v2.0.5, RVM: ruby-2.3.1 [alice_radiator]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/public_suffix-2.0.5/lib" />
@@ -6738,6 +6870,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/rack-1.6.5/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/rack-1.6.5/contrib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/rack-1.6.5/example" />
+      </SOURCES>
+    </library>
+    <library name="rack (v1.6.6, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/rack-1.6.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/rack-1.6.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/rack-1.6.6/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/rack-1.6.6/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/rack-1.6.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/rack-1.6.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/rack-1.6.6/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/rack-1.6.6/example" />
       </SOURCES>
     </library>
     <library name="rack (v2.0.1, RVM: ruby-2.3.1) [gem]">
@@ -7436,6 +7582,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/ransack-1.8.0/lib" />
       </SOURCES>
     </library>
+    <library name="ransack (v1.8.2, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/ransack-1.8.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/ransack-1.8.2/lib" />
+      </SOURCES>
+    </library>
     <library name="rb-fsevent (v0.9.5, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rb-fsevent-0.9.5/bin" />
@@ -7540,6 +7694,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rb-inotify-0.9.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="rb-inotify (v0.9.8, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/rb-inotify-0.9.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/rb-inotify-0.9.8/lib" />
       </SOURCES>
     </library>
     <library name="rb-inotify (v0.9.8, RVM: ruby-2.3.1 [alice_radiator]) [gem]">
@@ -7698,6 +7860,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/redis-3.3.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/redis-3.3.2/.travis" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/redis-3.3.2/benchmarking" />
+      </SOURCES>
+    </library>
+    <library name="redis (v3.3.3, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/redis-3.3.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/redis-3.3.3/.travis" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/redis-3.3.3/benchmarking" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/redis-3.3.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/redis-3.3.3/.travis" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/redis-3.3.3/benchmarking" />
       </SOURCES>
     </library>
     <library name="redis (v3.3.3, RVM: ruby-2.3.1 [alice_radiator]) [gem]">
@@ -9656,6 +9830,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/therubyracer-0.12.2/lib" />
       </SOURCES>
     </library>
+    <library name="therubyracer (v0.12.3, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/therubyracer/0.12.3" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/therubyracer-0.12.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/therubyracer-0.12.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/therubyracer/0.12.3" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/therubyracer-0.12.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/therubyracer-0.12.3/lib" />
+      </SOURCES>
+    </library>
     <library name="therubyracer (v0.12.3, RVM: ruby-2.3.1 [alice_radiator]) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/therubyracer/0.12.3" />
@@ -9854,6 +10040,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/tilt-2.0.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/tilt-2.0.5/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/tilt-2.0.5/man" />
+      </SOURCES>
+    </library>
+    <library name="tilt (v2.0.7, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/tilt-2.0.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/tilt-2.0.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/tilt-2.0.7/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/tilt-2.0.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/tilt-2.0.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/tilt-2.0.7/man" />
       </SOURCES>
     </library>
     <library name="timber (v1.1.9, RVM: ruby-2.3.1 [alice]) [gem]">
