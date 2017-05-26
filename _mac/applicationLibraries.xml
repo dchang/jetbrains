@@ -778,6 +778,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/arel-7.1.4/lib" />
       </SOURCES>
     </library>
+    <library name="aruba (v0.5.4, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/aruba-0.5.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/aruba-0.5.4/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/aruba-0.5.4/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/aruba-0.5.4/templates" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/aruba-0.5.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/aruba-0.5.4/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/aruba-0.5.4/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/aruba-0.5.4/templates" />
+      </SOURCES>
+    </library>
     <library name="ast (v2.3.0, RVM: ruby-2.3.1 [alice]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/ast-2.3.0/lib" />
@@ -3388,6 +3402,22 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/formtastic_i18n-0.6.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/formtastic_i18n-0.6.0/config" />
+      </SOURCES>
+    </library>
+    <library name="gauntlt (v1.0.12, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/gauntlt-1.0.12/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/gauntlt-1.0.12/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/gauntlt-1.0.12/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/gauntlt-1.0.12/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/gauntlt-1.0.12/gem_tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/gauntlt-1.0.12/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/gauntlt-1.0.12/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/gauntlt-1.0.12/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/gauntlt-1.0.12/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/gauntlt-1.0.12/gem_tasks" />
       </SOURCES>
     </library>
     <library name="gem-wrappers (v1.2.7, RVM: ruby-2.2.2) [gem]">
@@ -6322,6 +6352,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/multi_json-1.12.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="multi_test (v0.1.2, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/multi_test-0.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/multi_test-0.1.2/lib" />
       </SOURCES>
     </library>
     <library name="multi_test (v0.1.2, RVM: ruby-2.3.1) [gem]">
@@ -11266,6 +11304,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/tool-0.2.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="trollop (v2.1.2, RVM: ruby-2.3.1 [alice]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/trollop-2.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/trollop-2.1.2/lib" />
       </SOURCES>
     </library>
     <library name="turbolinks (v5.0.0, RVM: ruby-2.3.1 [alice]) [gem]">
