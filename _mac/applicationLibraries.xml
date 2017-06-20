@@ -820,6 +820,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/annotate-2.7.1/lib" />
       </SOURCES>
     </library>
+    <library name="annotate (v2.7.2, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/annotate-2.7.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/annotate-2.7.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/annotate-2.7.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/annotate-2.7.2/lib" />
+      </SOURCES>
+    </library>
     <library name="api-ai-ruby (v1.2.2, RVM: ruby-2.3.1 [alice]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/api-ai-ruby-1.2.2/lib" />
@@ -4700,6 +4710,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/google-api-client-0.9.20/third_party" />
       </SOURCES>
     </library>
+    <library name="google_drive (v2.1.2, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/google_drive-2.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/google_drive-2.1.2/lib" />
+      </SOURCES>
+    </library>
     <library name="googleauth (v0.5.1, RVM: ruby-2.3.1 [alice]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/googleauth-0.5.1/lib" />
@@ -5962,6 +5980,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/i18n-0.8.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/i18n-0.8.1/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="i18n (v0.8.4, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/i18n-0.8.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/i18n-0.8.4/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/i18n-0.8.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/i18n-0.8.4/gemfiles" />
       </SOURCES>
     </library>
     <library name="i18n-tasks (v0.8.7, RVM: ruby-2.3.1 [alice]) [gem]">
@@ -10064,6 +10092,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rack-mini-profiler-0.10.1/lib" />
       </SOURCES>
     </library>
+    <library name="rack-mini-profiler (v0.10.5, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rack-mini-profiler-0.10.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rack-mini-profiler-0.10.5/lib" />
+      </SOURCES>
+    </library>
     <library name="rack-protection (v1.5.3, RVM: ruby-2.3.1 [alice]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/rack-protection-1.5.3/lib" />
@@ -12902,6 +12938,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/simplecov-0.13.0/features" />
       </SOURCES>
     </library>
+    <library name="simplecov (v0.14.1, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/simplecov-0.14.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/simplecov-0.14.1/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/simplecov-0.14.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/simplecov-0.14.1/features" />
+      </SOURCES>
+    </library>
     <library name="simplecov-html (v0.10.0, RVM: ruby-2.3.1 [alice]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/simplecov-html-0.10.0/lib" />
@@ -12956,6 +13002,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/simplecov-html-0.10.0/views" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/simplecov-html-0.10.0/assets" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/simplecov-html-0.10.0/public" />
+      </SOURCES>
+    </library>
+    <library name="simplecov-html (v0.10.1, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/simplecov-html-0.10.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/simplecov-html-0.10.1/views" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/simplecov-html-0.10.1/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/simplecov-html-0.10.1/public" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/simplecov-html-0.10.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/simplecov-html-0.10.1/views" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/simplecov-html-0.10.1/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/simplecov-html-0.10.1/public" />
       </SOURCES>
     </library>
     <library name="simplecov-rcov (v0.2.3, RVM: ruby-2.3.1 [alice]) [gem]">
