@@ -16,9 +16,9 @@
       <mask>*.</mask>
       <mask>*.c</mask>
       <mask>*.cs</mask>
-      <mask>*.css</mask>
-      <mask>*</mask>
       <mask>*.js</mask>
+      <mask>*</mask>
+      <mask>*.css</mask>
     </recentFileMasks>
   </component>
 </application>
