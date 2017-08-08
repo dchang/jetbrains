@@ -1122,6 +1122,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/aws-sdk-core-2.7.3/apis" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-rails (v1.0.1, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/aws-sdk-rails-1.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/aws-sdk-rails-1.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-resources (v2.7.3, RVM: ruby-2.3.1 [alice]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/aws-sdk-resources-2.7.3/lib" />
@@ -2178,6 +2186,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/cliver-0.3.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/cliver-0.3.2/.githooks" />
+      </SOURCES>
+    </library>
+    <library name="cliver (v0.3.2, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/cliver-0.3.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/cliver-0.3.2/.githooks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/cliver-0.3.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/cliver-0.3.2/.githooks" />
       </SOURCES>
     </library>
     <library name="codeclimate-test-reporter (v0.6.0, RVM: ruby-2.3.1 [alice]) [gem]">
@@ -8604,6 +8622,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/netrc-0.11.0/data" />
       </SOURCES>
     </library>
+    <library name="newrelic_rpm (v4.3.0.335, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/newrelic_rpm-4.3.0.335/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/newrelic_rpm-4.3.0.335/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/newrelic_rpm-4.3.0.335/cert" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/newrelic_rpm-4.3.0.335/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/newrelic_rpm-4.3.0.335/recipes" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/newrelic_rpm-4.3.0.335/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/newrelic_rpm-4.3.0.335/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/newrelic_rpm-4.3.0.335/cert" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/newrelic_rpm-4.3.0.335/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/newrelic_rpm-4.3.0.335/recipes" />
+      </SOURCES>
+    </library>
     <library name="nio4r (v1.2.1, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/nio4r-1.2.1/ext" />
@@ -9320,6 +9354,14 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/parser-2.3.3.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/parser-2.3.3.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="pdf-forms (v1.1.1, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/pdf-forms-1.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/pdf-forms-1.1.1/lib" />
       </SOURCES>
     </library>
     <library name="pg (v0.18.4, RVM: ruby-2.3.1 [alice]) [gem]">
@@ -12358,6 +12400,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@global/gems/rvm-1.11.3.9/lib" />
+      </SOURCES>
+    </library>
+    <library name="safe_shell (v1.1.0, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/safe_shell-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/safe_shell-1.1.0/tmp" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/safe_shell-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/safe_shell-1.1.0/tmp" />
       </SOURCES>
     </library>
     <library name="safe_yaml (v1.0.4, RVM: ruby-2.3.1 [alice]) [gem]">
