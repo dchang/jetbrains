@@ -8,6 +8,7 @@
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="hot" type="PLAIN_TEXT" />
       <mapping ext="arb" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
