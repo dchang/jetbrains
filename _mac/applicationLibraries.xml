@@ -5878,6 +5878,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/hubspot-ruby-0.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="hubspot-ruby (v0.2.1@8abb2a, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/bundler/gems/hubspot-ruby-8abb2a6c44a7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/bundler/gems/hubspot-ruby-8abb2a6c44a7/lib" />
+      </SOURCES>
+    </library>
     <library name="humanize (v1.1.2, RVM: ruby-2.3.1 [alice]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/humanize-1.1.2/lib" />
