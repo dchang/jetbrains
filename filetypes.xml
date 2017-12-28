@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".postcssrc" type="JSON" />
       <mapping pattern=".rspec" type="PLAIN_TEXT" />
       <mapping pattern=".rspec_parallel" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
