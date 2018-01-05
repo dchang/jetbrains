@@ -1,10 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -19,13 +18,15 @@
       <mask>*.f</mask>
       <mask>*.r</mask>
       <mask>*</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.er</mask>
       <mask>*.erb</mask>
       <mask>*.rb</mask>
       <mask>*.arb</mask>
+      <mask>*.ar</mask>
+      <mask>*.a</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
