@@ -12434,6 +12434,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rubyzip-1.2.1/samples" />
       </SOURCES>
     </library>
+    <library name="rufo (v0.2.0, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rufo-0.2.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rufo-0.2.0/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rufo-0.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rufo-0.2.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rufo-0.2.0/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rufo-0.2.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rufo-0.2.0/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rufo-0.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rufo-0.2.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rufo-0.2.0/rakelib" />
+      </SOURCES>
+    </library>
     <library name="rufus-scheduler (v3.2.2, RVM: ruby-2.3.1 [alice_radiator]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice_radiator/gems/rufus-scheduler-3.2.2/lib" />
@@ -14090,6 +14106,18 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@alice/gems/terminal-table-1.7.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="test-prof (v0.4.4, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/test-prof-0.4.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/test-prof-0.4.4/guides" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/test-prof-0.4.4/assets" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/test-prof-0.4.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/test-prof-0.4.4/guides" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/test-prof-0.4.4/assets" />
       </SOURCES>
     </library>
     <library name="test-unit (v2.0.0.0, ruby-2.0.0-p648) [gem]">
