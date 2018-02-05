@@ -12,10 +12,8 @@
       <mask>*.as</mask>
       <mask>*.mxml</mask>
       <mask>*.f</mask>
-      <mask>*.r</mask>
       <mask>*.er</mask>
       <mask>*.erb</mask>
-      <mask>*.rb</mask>
       <mask>*.arb</mask>
       <mask>*.ar</mask>
       <mask>*.a</mask>
@@ -25,10 +23,12 @@
       <mask>*</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.y</mask>
-      <mask>*.ym</mask>
       <mask>*.yml</mask>
+      <mask>*.ym</mask>
+      <mask>*.y</mask>
+      <mask>*.</mask>
+      <mask>*.r</mask>
+      <mask>*.rb</mask>
     </recentFileMasks>
   </component>
 </application>
